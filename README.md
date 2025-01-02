@@ -87,10 +87,11 @@ This project was developed during the *Code for All* bootcamp as our final proje
 ## Authors and Acknowledgements
 
 This project was developed by:
-- **Lucas Takase Sasaki** - Dependency and Plugin Configuration, JavaScript Integration
-- **Ana Teresa Fernandes** - Frontend Development (HTML, CSS, JavaScript)
-- **Rafael Lopes** - Backend Development
-- **Manuel Vieira** - Backend Development
+- [@lucastakase](https://github.com/lucastakase)- Dependency and Plugin Configuration, JavaScript Integration
+- [@naturesa](https://github.com/naturesa)- Frontend Development (HTML, CSS, JavaScript)
+- [@Silverworm1991](https://github.com/Silverworm1991)- Backend Development
+- [@V.msm](https://github.com/V-msm)- Backend Development
+
 
 I would like to thank *Code for All*, the *Mastercoders*, our fellow bootcamp colleagues, and everyone who supported us during the development of this project.
 
