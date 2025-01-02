@@ -8,9 +8,7 @@ HelpHub is a platform designed to connect those in need with volunteers who are 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How to Run the Project](#how-to-run-the-project)
-- [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [Authors and Acknowledgements](#authors-and-acknowledgements)
 
 ## Project Description
@@ -76,15 +74,16 @@ This project was developed during the *Code for All* bootcamp as our final proje
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](path_to_image_1)
+![Homepage Screenshot](Screenshot%20from%202025-01-02%2010-18-41.png)
 
 ### Registration Page
-![Registration Page Screenshot](path_to_image_2)
+![Registration Page Screenshot](Screenshot%20from%202025-01-02%2010-19-26.png)
 
-### User Profile Cards
-![User Profile Cards Screenshot](path_to_image_3)
+### Volunteer Profile Cards
+![User Profile Cards Screenshot](Screenshot%20from%202025-01-02%2010-18-52.png)
 
-
+### InNeed Profile Cards
+![User Profile Cards Screenshot](Screenshot%20from%202025-01-02%2010-19-09.png)
 ## Authors and Acknowledgements
 
 This project was developed by:
